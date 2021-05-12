@@ -3,7 +3,7 @@ def new_mazi_func():
 
 
 def mazi_func():
-    mazi = 14
+    mazi = 420
     print("mazi", mazi)
 
     print("mazi milbea maine")
