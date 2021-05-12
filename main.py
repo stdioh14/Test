@@ -1,5 +1,7 @@
 def mazi_func():
-    print("mazi")
+    mazi = 14
+    print("mazi", mazi)
+
 
 if __name__ == "__main__":
     mazi_func()
